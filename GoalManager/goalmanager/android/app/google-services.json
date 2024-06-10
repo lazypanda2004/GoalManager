@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386528672478",
+    "project_id": "goalmanager-374b1",
+    "storage_bucket": "goalmanager-374b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386528672478:android:d9291b649b9a8a987c204f",
+        "android_client_info": {
+          "package_name": "com.example.goalmanager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk4TZQ54PtuaYn34tif0fR1Ou25EfEO3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
